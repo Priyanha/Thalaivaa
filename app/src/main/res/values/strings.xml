@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ParkMe</string>
+    <string name="btn_send">Cash</string>
+    <string name="btn_send_2">Card</string>
+    <string name="edit">Enter CardNo</string>
+    <string name="edit1">Enter EXP date of card</string>
+    <string name="edit2">Enter cvv</string>
+
+    <string name="paypal">
+        <a href="https://www.paypal.com/lk/home">Paypal</a>
+    </string>
+</resources>
